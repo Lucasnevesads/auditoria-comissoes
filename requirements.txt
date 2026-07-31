@@ -1,0 +1,5 @@
+# Três dependências. Regra do projeto: se saiu do código, sai daqui.
+
+pandas
+numpy
+pyyaml

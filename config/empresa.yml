@@ -1,0 +1,20 @@
+# O nome da empresa mora SÓ aqui.
+#
+# Por que isso importa:
+# se um dia houver autorização para usar o nome de uma empresa real,
+# muda-se este arquivo e mais nada. O projeto inteiro passa a falar
+# o nome novo: código, gráficos, tabelas e README.
+
+empresa:
+  nome: "Norte Garantia"
+  nome_curto: "Norte"
+  ramo: "Corretora de seguro garantia"
+  cidade: "Belém"
+  uf: "PA"
+  fundacao: 2019
+
+dados:
+  # Trave isso em true. Só muda se um dia houver dado real autorizado,
+  # e nesse caso o repositório deixa de ser público.
+  sintetico: true
+  seed: 42

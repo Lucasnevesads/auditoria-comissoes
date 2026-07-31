@@ -1,0 +1,5 @@
+# Só para gerar a imagem do README (docs/gerar_grafico.py).
+# Gráfico é documentação, não produto.
+
+-r requirements.txt
+matplotlib

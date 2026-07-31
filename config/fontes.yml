@@ -1,0 +1,22 @@
+# De onde vem a base que esta auditoria confere.
+#
+# A base é gerada pelo projeto base-sintetica-seguros. Clone os dois
+# repositórios lado a lado e rode o gerador antes de auditar.
+
+base:
+  caminho: "../base-sintetica-seguros/dados/tratado"
+  repositorio: "https://github.com/Lucasnevesads/base-sintetica-seguros"
+
+# As tabelas que a auditoria tem direito de ler.
+# O gabarito NÃO está nesta lista, e isso é a regra central do projeto:
+# a auditoria não sabe onde estão os erros. Quem lê o gabarito é o
+# src/medir.py, que roda depois, só para pontuar o resultado.
+tabelas:
+  - apolices
+  - parcelas
+  - demonstrativos
+  - extrato_bancario
+  - crm_negocios
+  - planilha_producao
+
+gabarito: gabarito_defeitos

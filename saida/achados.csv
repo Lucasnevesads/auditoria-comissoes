@@ -1,0 +1,25 @@
+tipo,gravidade,numero_apolice,numero_parcela,descricao,impacto_reais
+competencia_trocada,alta,66-1753-2062602,2,vencimento em 2025-05 lançado na aba 2025-06,313.2
+competencia_trocada,alta,22-9456-3226624,1,vencimento em 2025-06 lançado na aba 2025-07,618.59
+competencia_trocada,alta,90-8799-3006281,1,vencimento em 2025-07 lançado na aba 2025-08,14772.6
+competencia_trocada,alta,53-4868-9947098,1,vencimento em 2025-08 lançado na aba 2025-09,7752.95
+competencia_trocada,alta,70-2062-3809068,1,vencimento em 2025-08 lançado na aba 2025-09,1110.45
+competencia_trocada,alta,46-7874-8502316,1,vencimento em 2025-12 lançado na aba 2026-01,180.8
+cancelada_como_pendente,alta,73-4878-9417612,1,boleto Cancelado mas comissão consta como Pendente,1235.1
+cancelada_como_pendente,alta,90-6477-5201173,1,boleto Cancelado mas comissão consta como Pendente,45.82
+cancelada_como_pendente,alta,11-1716-3217596,2,boleto Cancelado mas comissão consta como Pendente,391.79
+consultor_com_espaco,media,88-5355-9875496,3,"consultor gravado como 'Ravi Sampaio ', com espaço sobrando",32.0
+consultor_com_espaco,media,56-1602-5710310,6,"consultor gravado como 'Raul Andrade ', com espaço sobrando",590.69
+consultor_com_espaco,media,27-9035-6250195,3,"consultor gravado como 'Ravi Sampaio ', com espaço sobrando",57.41
+consultor_com_espaco,media,59-2841-9251380,5,"consultor gravado como 'Maitê Ramos ', com espaço sobrando",16.07
+consultor_com_espaco,media,16-2387-1917592,3,"consultor gravado como 'Augusto Fogaça ', com espaço sobrando",39.14
+negocio_so_no_crm,alta,72-5911-8967375,,negócio 480 (Souza Ltda.) está no CRM e não tem nenhuma linha na planilha,32568.97
+negocio_so_no_crm,alta,56-5514-7668174,,negócio 655 (Araújo Machado S/A) está no CRM e não tem nenhuma linha na planilha,15497.14
+divergencia_de_centavos,baixa,85-8025-6123430,1,planilha tem 880.90 e o sistema tem 880.46,0.44
+divergencia_de_centavos,baixa,50-8749-7395997,6,planilha tem 27.36 e o sistema tem 27.87,-0.51
+divergencia_de_centavos,baixa,64-1430-5487028,1,planilha tem 51.84 e o sistema tem 51.40,0.44
+divergencia_de_centavos,baixa,70-3273-8870361,1,planilha tem 17.39 e o sistema tem 17.75,-0.36
+divergencia_de_centavos,baixa,21-7640-7362994,1,planilha tem 15463.24 e o sistema tem 15462.97,0.27
+divergencia_de_centavos,baixa,88-5454-5776085,2,planilha tem 2793.51 e o sistema tem 2794.02,-0.51
+divergencia_de_centavos,baixa,97-1699-1957285,1,planilha tem 63.71 e o sistema tem 64.22,-0.51
+divergencia_de_centavos,baixa,53-8967-4567426,2,planilha tem 38841.42 e o sistema tem 38841.33,0.09

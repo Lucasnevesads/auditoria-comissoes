@@ -1,0 +1,36 @@
+# ---- Dado nunca sobe ----
+dados/
+*.xlsx
+*.xls
+*.parquet
+*.db
+*.sqlite3
+
+# A saída da auditoria É o produto deste projeto, então ela sobe.
+!saida/
+!saida/*.csv
+!saida/*.md
+
+# ---- Segredo nunca sobe ----
+.env
+.env.*
+*.pem
+*.key
+credenciais*
+segredos*
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+.pytest_cache/
+
+# ---- Sistema e editor ----
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/

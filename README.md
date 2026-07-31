@@ -21,6 +21,8 @@ Não foram parar em lugar nenhum, porque nunca estiveram lá. O CRM lança o **c
 
 O trabalho da auditoria não é achar o dinheiro. É provar que ele não está faltando, e separar disso o que **de fato** está errado.
 
+> **Essa cena não é hipotética.** Ela aconteceu, e a conferência que a resolveu é o que este projeto reconstrói sobre dados sintéticos.
+
 ## O que eu fiz
 
 Uma auditoria em três blocos, nessa ordem, sobre a base da [Norte Garantia](https://github.com/Lucasnevesads/base-sintetica-seguros).

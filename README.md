@@ -11,6 +11,8 @@
   <img alt="Gráfico de cascata da comissão da Norte Garantia em 2025. Começa em R$ 4.080.660,80 registrados no CRM e desce em quatro degraus: R$ 138.150,95 de apólices canceladas, R$ 444.412,22 de parcelas ainda não recebidas, R$ 48.066,11 de negócios sem lastro na planilha e R$ 0,65 de resíduo sem explicação, terminando em R$ 3.450.030,87 recebidos no banco." src="docs/grafico-light.png">
 </picture>
 
+> A quarta barra parece faltar, e não falta: o resíduo é de **R$ 0,65**, alto demais para ser zero e baixo demais para desenhar. É esse o ponto do gráfico. Cada degrau laranja é uma parte da diferença que tem nome e explicação, e o que sobra sem nome não dá nem um pixel.
+
 ---
 
 ## O problema

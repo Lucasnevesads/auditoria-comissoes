@@ -27,7 +27,7 @@ O trabalho da auditoria não é achar o dinheiro. É provar que ele não está f
 
 ## O que eu fiz
 
-Uma auditoria em três blocos, nessa ordem, sobre a base da [Norte Garantia](https://github.com/Lucasnevesads/base-sintetica-seguros).
+Uma auditoria em três blocos, nessa ordem, sobre a base da [Norte Garantia](https://github.com/lucasnevesbr/base-sintetica-seguros).
 
 **1. Integridade primeiro.** Duas conferências que precisam fechar ao centavo: extrato contra demonstrativos, e parcelas recebidas contra demonstrativos. Se falharem, a base não é confiável e nada depois vale. Fecharam em R$ 0,00.
 
@@ -74,10 +74,10 @@ O relatório completo está em [`saida/relatorio.md`](saida/relatorio.md) e o de
 A base vem de outro projeto. Clone os dois lado a lado:
 
 ```bash
-git clone https://github.com/Lucasnevesads/base-sintetica-seguros
+git clone https://github.com/lucasnevesbr/base-sintetica-seguros
 cd base-sintetica-seguros && pip install -r requirements.txt && python src/gerar_base.py && cd ..
 
-git clone https://github.com/Lucasnevesads/auditoria-comissoes
+git clone https://github.com/lucasnevesbr/auditoria-comissoes
 cd auditoria-comissoes
 pip install -r requirements.txt
 python src/auditar.py
@@ -132,7 +132,7 @@ Ou seja: **os dois números estão certos, e a distância entre eles é o própr
 
 ## 🧪 Sobre os dados
 
-Os dados são da **Norte Garantia**, uma corretora de seguro garantia **fictícia**, gerada em [`base-sintetica-seguros`](https://github.com/Lucasnevesads/base-sintetica-seguros). As seguradoras também são fictícias.
+Os dados são da **Norte Garantia**, uma corretora de seguro garantia **fictícia**, gerada em [`base-sintetica-seguros`](https://github.com/lucasnevesbr/base-sintetica-seguros). As seguradoras também são fictícias.
 
 Nenhum dado de cliente ou de empresa real é usado, em nenhuma etapa.
 

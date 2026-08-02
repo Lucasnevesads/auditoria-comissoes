@@ -5,7 +5,7 @@
 
 base:
   caminho: "../base-sintetica-seguros/dados/tratado"
-  repositorio: "https://github.com/Lucasnevesads/base-sintetica-seguros"
+  repositorio: "https://github.com/lucasnevesbr/base-sintetica-seguros"
 
 # As tabelas que a auditoria tem direito de ler.
 # O gabarito NÃO está nesta lista, e isso é a regra central do projeto:
